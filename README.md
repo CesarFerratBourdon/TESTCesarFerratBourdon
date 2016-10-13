@@ -1,5 +1,7 @@
 # cesarbourdon.github.io
 
+Inspired and adapted from Albino Tonnina's awesome template
+
 ### Built and deployed with
 1. Atom
 2. Adobe Illustrator
