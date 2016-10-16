@@ -1,9 +1,11 @@
 # cesarbourdon.github.io
+
 ### Built and deployed with
 1. Atom
 2. Adobe Illustrator
 3. Node.js
 4. Github
+
 ### Libraries
 1. <https://github.com/Prinzhorn/skrollr>
 2. <http://visionmedia.github.io/move.js>
